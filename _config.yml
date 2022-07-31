@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: kvanderhelm@me.com
 description: A fictional blog about Japan for SuperHi Command Line for Creatives course.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: 
 github_username: kimber
 theme: minima
